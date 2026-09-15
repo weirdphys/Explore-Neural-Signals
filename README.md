@@ -568,8 +568,3 @@ Explore Neural Signals. Open-source neural signal analysis, EEG analysis, human 
 
 ---
 
-## License
-
-**[Explore Neural Signals](https://github.com/weirdphys/Explore-Neural-Signals)** is licensed under the [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
-[![CC BY-SA 4.0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
